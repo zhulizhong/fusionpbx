@@ -8,6 +8,7 @@ $text['title-option_edit']['pt-br'] = "Editar IVR";
 $text['title-option_edit']['pl'] = "Edycja zapowiedzi głosowych (IVR)";
 $text['title-option_edit']['sv-se'] = "Ändra IVR Meny Val";
 $text['title-option_edit']['de-at'] = "Optionen der Automatischen Vermittlung bearbeiten";
+$text['title-option_edit']['zh-cn'] = "编辑 IVR 语音菜单选项";
 
 $text['title-option_add']['en-us'] = "IVR Menu Option Add";
 $text['title-option_add']['es-cl'] = "Agregar Menú IVR";
@@ -17,6 +18,7 @@ $text['title-option_add']['pt-br'] = "Adicionar IVR";
 $text['title-option_add']['pl'] = "Dodaj zapowiedź głosową (IVR)";
 $text['title-option_add']['sv-se'] = "Lägg Till IVR Meny Val";
 $text['title-option_add']['de-at'] = "Optionen der Automatischen Vermittlung hinzufügen";
+$text['title-option_add']['zh-cn'] = "添加 IVR 菜单选项";
 
 $text['title-ivr_menus']['en-us'] = "IVR Menus";
 $text['title-ivr_menus']['es-cl'] = "Menus IVR";
@@ -26,6 +28,7 @@ $text['title-ivr_menus']['pt-br'] = "Menus de IVR";
 $text['title-ivr_menus']['pl'] = "Menu zapowiedzi głosowych (IVR)";
 $text['title-ivr_menus']['sv-se'] = "IVR Menyer";
 $text['title-ivr_menus']['de-at'] = "Automatische Vermittlungen";
+$text['title-ivr_menus']['zh-cn'] = "IVR 菜单";
 
 $text['title-ivr_menu']['en-us'] = "IVR Menu";
 $text['title-ivr_menu']['es-cl'] = "Menú IVR";
@@ -71,6 +74,7 @@ $text['message-required']['pt-br'] = "Por favor Indique:";
 $text['message-required']['pl'] = "Wpisz:";
 $text['message-required']['sv-se'] = "Var god uppge:";
 $text['message-required']['de-at'] = "Bitte geben Sie folgendes an:";
+$text['message-required']['zh-cn'] = "请提供: ";
 
 $text['message-message']['en-us'] = "Message";
 $text['message-message']['es-cl'] = "Mensaje";
