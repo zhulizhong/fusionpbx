@@ -9,7 +9,7 @@ $text['title-call_flows']['pl'] = "Przepływ rozmów";
 $text['title-call_flows']['sv-se'] = "Samtalsflöden";
 $text['title-call_flows']['uk'] = "Потоки дзвінків";
 $text['title-call_flows']['de-at'] = "Anruf Steuerung";
-
+$text['title-call_flows']['zh-cn'] = "呼叫流程";
 $text['title-call_flow-edit']['en-us'] = "Call Flow";
 $text['title-call_flow-edit']['es-cl'] = "Flujo de Llamada";
 $text['title-call_flow-edit']['pt-pt'] = "Fluxo de Chamada";
@@ -19,6 +19,7 @@ $text['title-call_flow-edit']['pl'] = "Przepływ rozmów";
 $text['title-call_flow-edit']['sv-se'] = "Samtalsflöde";
 $text['title-call_flow-edit']['uk'] = "Потік дзвінків";
 $text['title-call_flow-edit']['de-at'] = "Anruf Steuerung";
+$text['title-call_flow-edit']['zh-cn'] = "呼叫流程";
 
 $text['title-call_flow-add']['en-us'] = "Call Flow Add";
 $text['title-call_flow-add']['es-cl'] = "Agregar Flujo de Llamada";
@@ -29,6 +30,7 @@ $text['title-call_flow-add']['pl'] = "Dodaj przepływ rozmów";
 $text['title-call_flow-add']['sv-se'] = "Lägg Till Samtalsflöde";
 $text['title-call_flow-add']['uk'] = "";
 $text['title-call_flow-add']['de-at'] = "Anruf Steuerung hinzufügen";
+$text['title-call_flow-add']['zh-cn'] = "添加呼叫流程";
 
 $text['message-update']['en-us'] = "Update Completed";
 $text['message-update']['es-cl'] = "Actualizar Completado";
@@ -39,6 +41,7 @@ $text['message-update']['pl'] = "Zaktualizowano poprawnie";
 $text['message-update']['sv-se'] = "Uppdatering Klar";
 $text['message-update']['uk'] = "Оновлено";
 $text['message-update']['de-at'] = "Aktualisierung durchgeführt";
+$text['message-update']['zh-cn'] = "完成更新";
 
 $text['message-required']['en-us'] = "Please provide: ";
 $text['message-required']['es-cl'] = "Por favor indique: ";
