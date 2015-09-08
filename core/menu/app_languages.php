@@ -9,6 +9,7 @@ $text['title-menus']['pl'] = "Menedżer menu";
 $text['title-menus']['uk'] = "Менеджер меню";
 $text['title-menus']['sv-se'] = "Meny Inställningar";
 $text['title-menus']['de-at'] = "Menü Einstellungen";
+$text['title-menus']['zh-cn'] = "菜单管理员";
 
 $text['title-menu_item-edit']['en-us'] = "Menu Item";
 $text['title-menu_item-edit']['es-cl'] = "Editar Ítem de Menú";
@@ -19,6 +20,7 @@ $text['title-menu_item-edit']['pl'] = "Pozycja menu";
 $text['title-menu_item-edit']['uk'] = "Пункт меню";
 $text['title-menu_item-edit']['sv-se'] = "Meny Post";
 $text['title-menu_item-edit']['de-at'] = "Menüpunkt";
+$text['title-menu_item-edit']['zh-cn'] = "菜单选项";
 
 $text['title-menu_item-add']['en-us'] = "Menu Item";
 $text['title-menu_item-add']['es-cl'] = "Agregar Ítem de Menú";
@@ -29,6 +31,7 @@ $text['title-menu_item-add']['pl'] = "Pozycja menu";
 $text['title-menu_item-add']['uk'] = "Пункт меню";
 $text['title-menu_item-add']['sv-se'] = "Meny Post";
 $text['title-menu_item-add']['de-at'] = "Menüpunkt";
+$text['title-menu_item-add']['zh-cn'] = "菜单选项";
 
 $text['title-menu-edit']['en-us'] = "Menu";
 $text['title-menu-edit']['es-cl'] = "Editar Menú";
@@ -39,6 +42,7 @@ $text['title-menu-edit']['pl'] = "Menu";
 $text['title-menu-edit']['uk'] = "Меню";
 $text['title-menu-edit']['sv-se'] = "Meny";
 $text['title-menu-edit']['de-at'] = "Menü";
+$text['title-menu-edit']['zh-cn'] = "菜单";
 
 $text['title-menu-add']['en-us'] = "Menu";
 $text['title-menu-add']['es-cl'] = "Agregar Menú";
@@ -49,6 +53,7 @@ $text['title-menu-add']['pl'] = "Menu";
 $text['title-menu-add']['uk'] = "Меню";
 $text['title-menu-add']['sv-se'] = "Meny";
 $text['title-menu-add']['de-at'] = "Menü";
+$text['title-menu-add']['zh-cn'] = "菜单";
 
 $text['option-internal']['en-us'] = "Internal";
 $text['option-internal']['es-cl'] = "Interno";
