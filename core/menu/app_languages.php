@@ -64,6 +64,7 @@ $text['option-internal']['pl'] = "Wewnętrzny";
 $text['option-internal']['uk'] = "Внутрішній (Internal)";
 $text['option-internal']['sv-se'] = "Intern";
 $text['option-internal']['de-at'] = "Intern";
+$text['option-internal']['zh-cn'] = "内部";
 
 $text['option-external']['en-us'] = "External";
 $text['option-external']['es-cl'] = "Externo";
@@ -74,6 +75,7 @@ $text['option-external']['pl'] = "Zewnętrzny";
 $text['option-external']['uk'] = "Зовнішній (External)";
 $text['option-external']['sv-se'] = "EXtern";
 $text['option-external']['de-at'] = "Extern";
+$text['option-external']['zh-cn'] = "外部";
 
 $text['option-email']['en-us'] = "E-mail";
 $text['option-email']['es-cl'] = "E-mail";
@@ -84,6 +86,7 @@ $text['option-email']['pl'] = "E-mail";
 $text['option-email']['uk'] = "Електронна пошта";
 $text['option-email']['sv-se'] = "E-post";
 $text['option-email']['de-at'] = "E-mail";
+$text['option-email']['zh-cn'] = "邮箱";
 
 $text['message-update']['en-us'] = "Update Completed";
 $text['message-update']['es-cl'] = "Actualización Completada";
@@ -94,6 +97,7 @@ $text['message-update']['pl'] = "Zaktualizowano poprawnie";
 $text['message-update']['uk'] = "Оновлення завершено";
 $text['message-update']['sv-se'] = "Uppdatering Klar";
 $text['message-update']['de-at'] = "Aktualisierung durchgeführt";
+$text['message-update']['zh-cn'] = "完成更新";
 
 $text['message-restore']['en-us'] = "Restore Completed";
 $text['message-restore']['es-cl'] = "Restauración Completada";
@@ -104,6 +108,7 @@ $text['message-restore']['pl'] = "Przywrócenie zakończone";
 $text['message-restore']['uk'] = "Відновлення завершено";
 $text['message-restore']['sv-se'] = "Återställning Klar";
 $text['message-restore']['de-at'] = "Widerherstellung durchgeführt";
+$text['message-restore']['zh-cn'] = "完成还原";
 
 $text['message-required']['en-us'] = "Please provide: ";
 $text['message-required']['es-cl'] = "Por favor indique: ";
@@ -114,6 +119,7 @@ $text['message-required']['pl'] = "Wpisz:";
 $text['message-required']['uk'] = "Будь ласка, вкажіть:";
 $text['message-required']['sv-se'] = "Var god uppge:";
 $text['message-required']['de-at'] = "Bitte geben Sie folgendes an:";
+$text['message-required']['zh-cn'] = "请提供: ";
 
 $text['message-moved_up']['en-us'] = "Item Moved Up";
 $text['message-moved_up']['es-cl'] = "Elemento Subido";
@@ -204,6 +210,7 @@ $text['label-parent_menu']['pl'] = "Główne menu";
 $text['label-parent_menu']['uk'] = "Батьківське меню";
 $text['label-parent_menu']['sv-se'] = "Överordnad Meny";
 $text['label-parent_menu']['de-at'] = "Übergeordnetes Menü";
+$text['label-parent_menu']['zh-cn'] = "父菜单";
 
 $text['label-name']['en-us'] = "Name";
 $text['label-name']['es-cl'] = "Nombre";
@@ -244,6 +251,7 @@ $text['label-language']['pl'] = "Język";
 $text['label-language']['uk'] = "Мова";
 $text['label-language']['sv-se'] = "Språk";
 $text['label-language']['de-at'] = "Sprache";
+$text['label-language']['zh-cn'] = "语言";
 
 $text['label-groups']['en-us'] = "Groups";
 $text['label-groups']['es-cl'] = "Grupos";
@@ -294,6 +302,7 @@ $text['header-menus']['pl'] = "Menedżer menu";
 $text['header-menus']['uk'] = "Менеджер меню";
 $text['header-menus']['sv-se'] = "Meny Inställningar";
 $text['header-menus']['de-at'] = "Menü Einstellungen";
+$text['header-menus']['zh-cn'] = "菜单管理员";
 
 $text['header-menu_item-edit']['en-us'] = "Menu Item";
 $text['header-menu_item-edit']['es-cl'] = "Editar Ítem de Menú";
@@ -583,5 +592,6 @@ $text['button-add']['pl'] = "Dodaj";
 $text['button-add']['uk'] = "Додати";
 $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['de-at'] = "Hinzufügen";
+$text['button-add']['zh-cn'] = "添加";
 
 ?>
