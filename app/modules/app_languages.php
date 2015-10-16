@@ -10,6 +10,7 @@ $text['title-modules']['pl'] = "Moduły";
 $text['title-modules']['uk'] = "Модулі";
 $text['title-modules']['sv-se'] = "Moduler";
 $text['title-modules']['de-at'] = "Module";
+$text['title-modules']['zh-cn'] = "模块";
 
 $text['title-module_edit']['en-us'] = "Module Edit";
 $text['title-module_edit']['es-cl'] = "Editar Módulo";
@@ -21,6 +22,7 @@ $text['title-module_edit']['pl'] = "Edytuj moduł";
 $text['title-module_edit']['uk'] = "Редагування модуля";
 $text['title-module_edit']['sv-se'] = "Editera Modul";
 $text['title-module_edit']['de-at'] = "Module bearbeiten";
+$text['title-module_edit']['zh-cn'] = "模块编辑";
 
 $text['title-module_add']['en-us'] = "Module Add";
 $text['title-module_add']['es-cl'] = "Agregar Módulo";
@@ -32,6 +34,7 @@ $text['title-module_add']['pl'] = "Dodaj moduł";
 $text['title-module_add']['uk'] = "Додавання модуля";
 $text['title-module_add']['sv-se'] = "Lägg Till Modul";
 $text['title-module_add']['de-at'] = "Module hinzufügen";
+$text['title-module_add']['zh-cn'] = "添加模块";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['es-cl'] = "Verdadero";
@@ -65,6 +68,7 @@ $text['message-update']['pl'] = "Zaktualizowano poprawnie";
 $text['message-update']['uk'] = "Оновлено";
 $text['message-update']['sv-se'] = "Uppdatering Klar";
 $text['message-update']['de-at'] = "Aktualisierung durchgeführt";
+$text['message-update']['zh-cn'] = "更新完成";
 
 $text['message-required']['en-us'] = "Please provide: ";
 $text['message-required']['es-cl'] = "Por favor indique: ";
@@ -98,6 +102,7 @@ $text['message-add']['pl'] = "Dodano poprawnie";
 $text['message-add']['uk'] = "Додано";
 $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['de-at'] = "Erfolgreich hinzugefügt";
+$text['message-add']['zh-cn'] = "添加完成";
 
 $text['label-unload_module']['en-us'] = "Unload Module";
 $text['label-unload_module']['es-cl'] = "Descargar Módulo";
@@ -186,6 +191,7 @@ $text['label-module_category']['pl'] = "Kategoria modułu";
 $text['label-module_category']['uk'] = "Категорія модуля";
 $text['label-module_category']['sv-se'] = "Modul Kategori";
 $text['label-module_category']['de-at'] = "Modul Kategorie";
+$text['label-module_category']['zh-cn'] = "模块类别";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['es-cl'] = "Mensaje";
@@ -208,6 +214,7 @@ $text['label-load_module']['pl'] = "Włącz moduł";
 $text['label-load_module']['uk'] = "Завантажити модуль";
 $text['label-load_module']['sv-se'] = "Ladda Modul";
 $text['label-load_module']['de-at'] = "Modul laden";
+$text['label-load_module']['zh-cn'] = "加载模块";
 
 $text['label-label']['en-us'] = "Label";
 $text['label-label']['es-cl'] = "Etiqueta";
