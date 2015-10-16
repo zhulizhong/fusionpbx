@@ -190,6 +190,7 @@ $text['label-title']['pl'] = "Tytuł";
 $text['label-title']['uk'] = "Назва";
 $text['label-title']['sv-se'] = "Titel";
 $text['label-title']['de-at'] = "Titel";
+$text['label-title']['zh-cn'] = "抬头";
 
 $text['label-protected']['en-us'] = "Protected";
 $text['label-protected']['es-cl'] = "Protegido";
@@ -200,6 +201,7 @@ $text['label-protected']['pl'] = "Zabezpieczony";
 $text['label-protected']['uk'] = "Захищено";
 $text['label-protected']['sv-se'] = "Skyddad";
 $text['label-protected']['de-at'] = "Geschützt";
+$text['label-protected']['zh-cn'] = "已保护";
 
 $text['label-parent_menu']['en-us'] = "Parent Menu";
 $text['label-parent_menu']['es-cl'] = "Nivel Superior";
@@ -231,6 +233,7 @@ $text['label-menu_order']['pl'] = "Kolejność";
 $text['label-menu_order']['uk'] = "Інше";
 $text['label-menu_order']['sv-se'] = "Ordning";
 $text['label-menu_order']['de-at'] = "Reihenfolge";
+$text['label-menu_order']['zh-cn'] = "顺序";
 
 $text['label-link']['en-us'] = "Link";
 $text['label-link']['es-cl'] = "Enlace";
@@ -262,6 +265,7 @@ $text['label-groups']['pl'] = "Grupy";
 $text['label-groups']['uk'] = "Групи";
 $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['de-at'] = "Gruppen";
+$text['label-groups']['zh-cn'] = "组";
 
 $text['label-false']['en-us'] = "False";
 $text['label-false']['es-cl'] = "Falso";
@@ -282,6 +286,7 @@ $text['label-description']['pl'] = "Opis";
 $text['label-description']['uk'] = "Опис";
 $text['label-description']['sv-se'] = "Beskrivning";
 $text['label-description']['de-at'] = "Beschreibung";
+$text['label-description']['zh-cn'] = "描述";
 
 $text['label-category']['en-us'] = "Target";
 $text['label-category']['es-cl'] = "Destino";
@@ -292,6 +297,7 @@ $text['label-category']['pl'] = "Kategoria";
 $text['label-category']['uk'] = "Категорія";
 $text['label-category']['sv-se'] = "Kategori";
 $text['label-category']['de-at'] = "Ziel";
+$text['label-category']['zh-cn'] = "目标";
 
 $text['header-menus']['en-us'] = "Menu Manager";
 $text['header-menus']['es-cl'] = "Gestor de Menú";
@@ -313,6 +319,7 @@ $text['header-menu_item-edit']['pl'] = "Pozycja menu";
 $text['header-menu_item-edit']['uk'] = "Пункт меню";
 $text['header-menu_item-edit']['sv-se'] = "Meny Post";
 $text['header-menu_item-edit']['de-at'] = "Menüpunkt";
+$text['header-menu_item-edit']['zh-cn'] = "菜单项";
 
 $text['header-menu_item-add']['en-us'] = "Menu Item";
 $text['header-menu_item-add']['es-cl'] = "Agregar Ítem de Menú";
