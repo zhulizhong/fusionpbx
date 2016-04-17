@@ -9,6 +9,7 @@ $text['title-backup']['pl'] = "Kopie zapasowe";
 $text['title-backup']['sv-se'] = "Backup";
 $text['title-backup']['uk'] = "Резервна копія";
 $text['title-backup']['de-at'] = "Sicherung";
+$text['title-backup']['zh-cn'] = "备份";
 
 $text['option-file_download']['en-us'] = "File Download";
 $text['option-file_download']['es-cl'] = "Descarga de archivos";
@@ -19,6 +20,7 @@ $text['option-file_download']['pl'] = "Pobierz plik";
 $text['option-file_download']['sv-se'] = "Ladda Ned Fil";
 $text['option-file_download']['uk'] = "Скачування файлу";
 $text['option-file_download']['de-at'] = "Datei Download";
+$text['option-file_download']['zh-cn'] = "文件下载";
 
 $text['option-command']['en-us'] = "Command";
 $text['option-command']['es-cl'] = "Comando";
@@ -29,6 +31,7 @@ $text['option-command']['pl'] = "Polecenie";
 $text['option-command']['sv-se'] = "Komando";
 $text['option-command']['uk'] = "Команда";
 $text['option-command']['de-at'] = "Befehl";
+$text['option-command']['zh-cn'] = "命令";
 
 $text['message-restore_failed_upload']['en-us'] = "Restore Failed - File Upload Failed";
 $text['message-restore_failed_upload']['es-cl'] = "Falló la recup - Cargar archivo Error";
@@ -39,6 +42,7 @@ $text['message-restore_failed_upload']['pl'] = "Przywracanie oraz  przesłanie p
 $text['message-restore_failed_upload']['sv-se'] = "Återställning Misslyckades - Filöverföring misslyckades";
 $text['message-restore_failed_upload']['uk'] = "Помилка відновлення: неможливо завантажити файл";
 $text['message-restore_failed_upload']['de-at'] = "Wiederherstellung fehlgeschlagen - Datei hochladen fehlgeschlagen";
+$text['message-restore_failed_upload']['zh-cn'] = "还原失败-文件上传失败";
 
 $text['message-restore_failed_format']['en-us'] = "Restore Failed - Invalid File Format";
 $text['message-restore_failed_format']['es-cl'] = "Restaurar Error - Formato de archivo no válido";
@@ -49,6 +53,7 @@ $text['message-restore_failed_format']['pl'] = "Przywracanie  nie powiodło się
 $text['message-restore_failed_format']['sv-se'] = "Återställning Misslyckades - Ogiltigt Filformat";
 $text['message-restore_failed_format']['uk'] = "Помилка відновлення: хибний формат файлу";
 $text['message-restore_failed_format']['de-at'] = "Wiederherstellung fehlgeschlagen - Ungültiges Dateiformat";
+$text['message-restore_failed_format']['zh-cn'] = "还原失败-无效的文件格式";
 
 $text['message-restore_completed']['en-us'] = "Restore Completed";
 $text['message-restore_completed']['es-cl'] = "Restaurar Completado";
@@ -59,6 +64,7 @@ $text['message-restore_completed']['pl'] = "Przywracanie zakończono pomyślnie.
 $text['message-restore_completed']['sv-se'] = "Återställning Genomförd";
 $text['message-restore_completed']['uk'] = "Відновлено";
 $text['message-restore_completed']['de-at'] = "Wiederherstellung erfolgreich";
+$text['message-restore_completed']['zh-cn'] = "还原完成";
 
 $text['message-backup_failed_paths']['en-us'] = "Backup Failed - No Backup Paths Defined";
 $text['message-backup_failed_paths']['es-cl'] = "Fallidos de copia de seguridad - No hay rutas de copia de seguridad definida";
