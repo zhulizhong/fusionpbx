@@ -105,6 +105,7 @@ $text['label-source_paths']['pl'] = " Ścieżki źródłowe";
 $text['label-source_paths']['sv-se'] = "Källa Sökväg";
 $text['label-source_paths']['uk'] = "Об’єкти для резервного копіювання";
 $text['label-source_paths']['de-at'] = "Quell Pfade";
+$text['label-source_paths']['zh-cn'] = "文件路径";
 
 $text['label-select_backup']['en-us'] = "Select Backup File";
 $text['label-select_backup']['es-cl'] = "Seleccione Copia de Seguridad";
@@ -115,6 +116,7 @@ $text['label-select_backup']['pl'] = "Wybierz plik kopii zapasowej";
 $text['label-select_backup']['sv-se'] = "Välj Backup Fil";
 $text['label-select_backup']['uk'] = "Виберіть файл резервної копії";
 $text['label-select_backup']['de-at'] = "Wählen Sie eine Sicherungsdatei";
+$text['label-select_backup']['zh-cn'] = "选择一个备份文件";
 
 $text['label-file_format']['en-us'] = "File Format";
 $text['label-file_format']['es-cl'] = "Formato de Archivo";
@@ -125,6 +127,7 @@ $text['label-file_format']['pl'] = "Format pliku";
 $text['label-file_format']['sv-se'] = "Filformat";
 $text['label-file_format']['uk'] = "Формат файлу";
 $text['label-file_format']['de-at'] = "Dateiformat";
+$text['label-file_format']['zh-cn'] = "文件格式";
 
 $text['label-command']['en-us'] = "Command";
 $text['label-command']['es-cl'] = "Comando";
@@ -205,6 +208,7 @@ $text['button-generate']['pl'] = "Generuj";
 $text['button-generate']['sv-se'] = "Generera";
 $text['button-generate']['uk'] = "Згенерувати";
 $text['button-generate']['de-at'] = "Generieren";
+$text['button-generate']['zh-cn'] = "生成";
 
 $text['button-download']['en-us'] = "Download";
 $text['button-download']['es-cl'] = "Descargar";
@@ -215,5 +219,6 @@ $text['button-download']['pl'] = "Pobierz";
 $text['button-download']['sv-se'] = "Ladda Ned";
 $text['button-download']['uk'] = "Скачати";
 $text['button-download']['de-at'] = "Download";
+$text['button-download']['zh-cn'] = "下载";
 
 ?>
